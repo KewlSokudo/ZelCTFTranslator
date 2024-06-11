@@ -1,3 +1,5 @@
+**NOTE:** This plugin and repo is now deprecated in favor of the new [Nebula version](https://github.com/AITYunivers/NebulaFD/tree/master/Nebula.Plugins/ZelTranslator "Link to Nebula repo").
+
 # ZelCTFTranslator
 [Trello](https://trello.com/b/VHfVeyIn/zelctftranslator "Trello")<br/>
 An extension to CTFAK 2.2 that allows you to translate games to other game engines.
